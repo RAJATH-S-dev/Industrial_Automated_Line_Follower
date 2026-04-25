@@ -7,7 +7,7 @@
 ## Demo
 | Working prototype |
 |---|
-| ![working prototype](https://www.youtube.com/watch?v=BhsLwuRQVgU) |
+[![Demo Video](https://img.youtube.com/vi/BhsLwuRQVgU/0.jpg)](https://www.youtube.com/watch?v=BhsLwuRQVgU)
 
 | Small-Scale Prototype | Medium-Scale (Honeycomb Chassis) | prototype on map |
 |---|---|---|
