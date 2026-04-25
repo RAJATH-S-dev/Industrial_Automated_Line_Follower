@@ -5,7 +5,7 @@
 ---
 
 ## Demo
-| Working prototype |
+| Working prototype - video below - click to view |
 |---|
 [![Demo Video](https://img.youtube.com/vi/BhsLwuRQVgU/0.jpg)](https://www.youtube.com/watch?v=BhsLwuRQVgU)
 
